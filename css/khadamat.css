@@ -1,0 +1,61 @@
+/* اندازه و نمودار قالب صفحه */
+
+  /* بخش خدمات */
+  section#services {
+    padding: 20px;
+    text-align: right;
+
+  }
+  
+  section#services h2 {
+    color: #333;
+
+
+  }
+  
+  section#services table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+
+  }
+  
+  section#services th, section#services td {
+    padding: 10px;
+    text-align:right;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* بخش پکیج‌ها */
+  section#packages {
+    padding: 20px;
+    text-align: right;
+
+  }
+  
+  section#packages h2 {
+    color: #333;
+  }
+  
+  section#packages table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  section#packages th, section#packages td {
+    padding: 10px;
+    text-align:right;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  /* بخش تماس با ما */
+  section#contact {
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  section#contact h2 {
+    color: #fff;
+  }
